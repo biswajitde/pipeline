@@ -1,4 +1,4 @@
-#Base image
+    #Base image
 From ubuntu
 
 #Do image Configuration
